@@ -1,4 +1,4 @@
 {:pallet-project
  {:repo
   {:irc
-   {:active true}}}}
+   {:active false}}}}
