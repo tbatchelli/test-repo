@@ -1,3 +1,2 @@
 {:pallet-project
- {:type :crate
-  :repo nil}}
+ {:type :crate}}
